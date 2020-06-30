@@ -1,3 +1,7 @@
+## 1.1.0 - Menu Items
+
+- add menu items for plugin
+
 ## 1.0.0 - First Release
 
 - add default badge

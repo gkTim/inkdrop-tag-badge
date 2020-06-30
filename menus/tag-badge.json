@@ -9,6 +9,26 @@
             {
               "label": "Toggle",
               "command": "tag-badge:toggle"
+            },
+            {
+              "label": "Create default badge",
+              "command": "tag-badge:create-default"
+            },
+            {
+              "label": "Create success badge",
+              "command": "tag-badge:create-success"
+            },
+            {
+              "label": "Create error badge",
+              "command": "tag-badge:create-error"
+            },
+            {
+              "label": "Create warning badge",
+              "command": "tag-badge:create-warning"
+            },
+            {
+              "label": "Create info badge",
+              "command": "tag-badge:create-info"
             }
           ]
         }
