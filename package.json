@@ -1,0 +1,18 @@
+{
+  "name": "tag-badge",
+  "main": "./lib/tag-badge",
+  "version": "0.0.1",
+  "description": "An Inkdrop plugin to add tag badges to markdown.",
+  "keywords": [
+    "inkdrop",
+    "tag",
+    "badges",
+    "markdown"
+  ],
+  "repository": "https://github.com/gktim/inkdrop-tag-badge",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {}
+}
