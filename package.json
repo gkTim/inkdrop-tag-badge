@@ -1,7 +1,7 @@
 {
   "name": "tag-badge",
   "main": "./lib/tag-badge",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "An Inkdrop plugin to add tag badges to markdown.",
   "keywords": [
     "inkdrop",
