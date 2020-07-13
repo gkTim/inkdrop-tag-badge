@@ -28,10 +28,10 @@ Keep in mind that tag badge is not part of the official [CommonMark](https://spe
 
 Theme developers can use the following CSS selectors for styling.
 
-| Selector                 | Description        |
-| ------------------------ | ------------------ |
-| `.mde-preview div.tag`   | Default tag badge. |
-| `.mde-preview div.tag.s` | Success tag badge. |
-| `.mde-preview div.tag.e` | Error tag badge.   |
-| `.mde-preview div.tag.w` | Warning tag badge. |
-| `.mde-preview div.tag.i` | Info tag badge.    |
+| Selector                  | Description        |
+| ------------------------- | ------------------ |
+| `.mde-preview span.tag`   | Default tag badge. |
+| `.mde-preview span.tag.s` | Success tag badge. |
+| `.mde-preview span.tag.e` | Error tag badge.   |
+| `.mde-preview span.tag.w` | Warning tag badge. |
+| `.mde-preview span.tag.i` | Info tag badge.    |

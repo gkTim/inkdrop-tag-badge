@@ -1,3 +1,7 @@
+## 1.2.0 - Inline Badge
+
+- use span instead of div to allow inline badge
+
 ## 1.1.0 - Menu Items
 
 - add menu items for plugin
